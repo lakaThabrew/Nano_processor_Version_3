@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Vivado_designs/nano_processor_V1 - Copy/nano_processor_V1.sim/sim_1/synth/func/xsim/Sim_nano_processor_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Registers_Bank
+INFO: [VRFC 10-307] analyzing entity Slow_Clk
+INFO: [VRFC 10-307] analyzing entity programmer_counter_with_adder
+INFO: [VRFC 10-307] analyzing entity Nano_processor
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Vivado_designs/nano_processor_V1 - Copy/nano_processor_V1.srcs/sim_1/new/Sim_nano_processor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Sim_nano_processor

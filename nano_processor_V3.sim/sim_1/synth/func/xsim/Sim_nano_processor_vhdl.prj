@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"Sim_nano_processor_func_synth.vhd" \
+"../../../../../nano_processor_V1.srcs/sim_1/new/Sim_nano_processor.vhd" \
+
+# Do not sort compile order
+nosort
